@@ -37,3 +37,4 @@ plt.show()
 
 # Display classification results
 print(df)
+fre
