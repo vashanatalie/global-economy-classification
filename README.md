@@ -36,5 +36,3 @@ for i, txt in enumerate(df["Country"]):
 plt.show()
 
 # Display classification results
-print(df)
-waseed
